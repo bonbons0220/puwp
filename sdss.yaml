@@ -1,0 +1,21 @@
+1targetdomain:
+  label: 'Target domain: '
+  value: www.sdss.org
+2sourcedomain:
+  label: 'Source domain: '
+  value: test.sdss.org
+3targetpath:
+  label: 'Target path: '
+  value: /var/www/sdss.org/prod
+4sourcepath:
+  label: 'Source path: '
+  value: /var/www/sdss.org/test
+5deploypath:
+  label: 'Deploy path: '
+  value: /var/www/sdss.org/deploy
+6targetDB:
+  label: 'Target database: '
+  value: sdsswp_dr15
+7sourceDB:
+  label: 'Source database: '
+  value: sdsswp_dr15_test
