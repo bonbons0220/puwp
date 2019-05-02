@@ -12,7 +12,7 @@
   value: /var/www/sdss.org/test.voyages
 5deploypath:
   label: 'Deploy path: '
-  value: /var/www/sdss.org/deploy.voyages
+  value: /var/sss/sdss.org/deploy.voyages
 6targetDB:
   label: 'Target database: '
   value: voyageswp_prod

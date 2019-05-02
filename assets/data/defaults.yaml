@@ -1,21 +1,21 @@
 1targetdomain:
   label: 'Target domain: '
-  value: www.sciserver.org
+  value: www.example.org
 2sourcedomain:
   label: 'Source domain: '
-  value: test.sciserver.org
+  value: test.example.org
 3targetpath:
   label: 'Target path: '
-  value: /var/www/sciserver.org/prod
+  value: /var/www/example.org/prod
 4sourcepath:
   label: 'Source path: '
-  value: /var/www/sciserver.org/test
+  value: /var/www/example.org/test
 5deploypath:
   label: 'Deploy path: '
-  value: /var/www/sciserver.org/deploy
+  value: /var/www/example.org/deploy
 6targetDB:
   label: 'Target database: '
-  value: sciserverwp_prod
+  value: 'examplewp_prod '
 7sourceDB:
   label: 'Source database: '
-  value: sciserverwp_test
+  value: examplewp_test

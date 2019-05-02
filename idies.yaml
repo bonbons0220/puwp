@@ -1,7 +1,0 @@
-1targetdomain: idies.jhu.edu
-2sourcedomain: test.idies.jhu.edu
-3targetpath: /var/www/idies.jhu.edu/prod
-4sourcepath: /var/www/idies.jhu.edu/test
-5deploypath: /var/www/idies.jhu.edu/deploy
-6targetDB: idieswp_prod
-7sourceDB: idieswp_test

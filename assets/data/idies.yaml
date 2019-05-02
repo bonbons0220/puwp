@@ -1,21 +1,21 @@
 1targetdomain:
   label: 'Target domain: '
-  value: www.sdss.org
+  value: idies.jhu.edu
 2sourcedomain:
   label: 'Source domain: '
-  value: test.sdss.org
+  value: test.idies.jhu.edu
 3targetpath:
   label: 'Target path: '
-  value: /var/www/sdss.org/prod
+  value: /var/www/idies.jhu.edu/prod
 4sourcepath:
   label: 'Source path: '
-  value: /var/www/sdss.org/test
+  value: /var/www/idies.jhu.edu/test
 5deploypath:
   label: 'Deploy path: '
-  value: /var/www/sdss.org/deploy
+  value: /var/www/idies.jhu.edu/deploy
 6targetDB:
   label: 'Target database: '
-  value: sdsswp_dr15
+  value: idieswp_prod
 7sourceDB:
   label: 'Source database: '
-  value: sdsswp_dr15_test
+  value: idieswp_test
